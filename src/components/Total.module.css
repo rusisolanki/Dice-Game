@@ -1,0 +1,16 @@
+.score{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap:1
+}
+
+.score h1{
+    font-size: 3.5em;
+    margin-bottom: 0;
+}
+.score p{
+    margin-top: 0;
+    font-weight: 700;
+}
